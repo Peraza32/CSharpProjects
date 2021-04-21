@@ -1,0 +1,36 @@
+C:\Users\Victor\Desktop\Progra\C#\Personal Files\Utilities\Utilities\bin\Debug\netstandard2.0\Utilities.deps.json
+C:\Users\Victor\Desktop\Progra\C#\Personal Files\Utilities\Utilities\bin\Debug\netstandard2.0\Utilities.dll
+C:\Users\Victor\Desktop\Progra\C#\Personal Files\Utilities\Utilities\bin\Debug\netstandard2.0\Utilities.pdb
+C:\Users\Victor\Desktop\Progra\C#\Personal Files\Utilities\Utilities\obj\Debug\netstandard2.0\Utilities.csprojAssemblyReference.cache
+C:\Users\Victor\Desktop\Progra\C#\Personal Files\Utilities\Utilities\obj\Debug\netstandard2.0\Utilities.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\Progra\C#\Personal Files\Utilities\Utilities\obj\Debug\netstandard2.0\Utilities.AssemblyInfo.cs
+C:\Users\Victor\Desktop\Progra\C#\Personal Files\Utilities\Utilities\obj\Debug\netstandard2.0\Utilities.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\Progra\C#\Personal Files\Utilities\Utilities\obj\Debug\netstandard2.0\Utilities.dll
+C:\Users\Victor\Desktop\Progra\C#\Personal Files\Utilities\Utilities\obj\Debug\netstandard2.0\Utilities.pdb
+C:\Users\Victor\Desktop\Progra\C#\PersonalFiles\Utilities\Utilities\bin\Debug\netstandard2.0\Utilities.deps.json
+C:\Users\Victor\Desktop\Progra\C#\PersonalFiles\Utilities\Utilities\bin\Debug\netstandard2.0\Utilities.dll
+C:\Users\Victor\Desktop\Progra\C#\PersonalFiles\Utilities\Utilities\bin\Debug\netstandard2.0\Utilities.pdb
+C:\Users\Victor\Desktop\Progra\C#\PersonalFiles\Utilities\Utilities\obj\Debug\netstandard2.0\Utilities.csprojAssemblyReference.cache
+C:\Users\Victor\Desktop\Progra\C#\PersonalFiles\Utilities\Utilities\obj\Debug\netstandard2.0\Utilities.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\Progra\C#\PersonalFiles\Utilities\Utilities\obj\Debug\netstandard2.0\Utilities.AssemblyInfo.cs
+C:\Users\Victor\Desktop\Progra\C#\PersonalFiles\Utilities\Utilities\obj\Debug\netstandard2.0\Utilities.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\Progra\C#\PersonalFiles\Utilities\Utilities\obj\Debug\netstandard2.0\Utilities.dll
+C:\Users\Victor\Desktop\Progra\C#\PersonalFiles\Utilities\Utilities\obj\Debug\netstandard2.0\Utilities.pdb
+C:\Users\Victor\Desktop\Progra\C#\Labos\Lab3\PersonalFiles\Utilities\Utilities\bin\Debug\netstandard2.0\Utilities.deps.json
+C:\Users\Victor\Desktop\Progra\C#\Labos\Lab3\PersonalFiles\Utilities\Utilities\bin\Debug\netstandard2.0\Utilities.dll
+C:\Users\Victor\Desktop\Progra\C#\Labos\Lab3\PersonalFiles\Utilities\Utilities\bin\Debug\netstandard2.0\Utilities.pdb
+C:\Users\Victor\Desktop\Progra\C#\Labos\Lab3\PersonalFiles\Utilities\Utilities\obj\Debug\netstandard2.0\Utilities.csprojAssemblyReference.cache
+C:\Users\Victor\Desktop\Progra\C#\Labos\Lab3\PersonalFiles\Utilities\Utilities\obj\Debug\netstandard2.0\Utilities.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\Progra\C#\Labos\Lab3\PersonalFiles\Utilities\Utilities\obj\Debug\netstandard2.0\Utilities.AssemblyInfo.cs
+C:\Users\Victor\Desktop\Progra\C#\Labos\Lab3\PersonalFiles\Utilities\Utilities\obj\Debug\netstandard2.0\Utilities.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\Progra\C#\Labos\Lab3\PersonalFiles\Utilities\Utilities\obj\Debug\netstandard2.0\Utilities.dll
+C:\Users\Victor\Desktop\Progra\C#\Labos\Lab3\PersonalFiles\Utilities\Utilities\obj\Debug\netstandard2.0\Utilities.pdb
+C:\Users\Victor\Desktop\Progra\C#\Labos\Lab3\lab03-Peraza32\PersonalFiles\Utilities\Utilities\bin\Debug\netstandard2.0\Utilities.deps.json
+C:\Users\Victor\Desktop\Progra\C#\Labos\Lab3\lab03-Peraza32\PersonalFiles\Utilities\Utilities\bin\Debug\netstandard2.0\Utilities.dll
+C:\Users\Victor\Desktop\Progra\C#\Labos\Lab3\lab03-Peraza32\PersonalFiles\Utilities\Utilities\bin\Debug\netstandard2.0\Utilities.pdb
+C:\Users\Victor\Desktop\Progra\C#\Labos\Lab3\lab03-Peraza32\PersonalFiles\Utilities\Utilities\obj\Debug\netstandard2.0\Utilities.csprojAssemblyReference.cache
+C:\Users\Victor\Desktop\Progra\C#\Labos\Lab3\lab03-Peraza32\PersonalFiles\Utilities\Utilities\obj\Debug\netstandard2.0\Utilities.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\Progra\C#\Labos\Lab3\lab03-Peraza32\PersonalFiles\Utilities\Utilities\obj\Debug\netstandard2.0\Utilities.AssemblyInfo.cs
+C:\Users\Victor\Desktop\Progra\C#\Labos\Lab3\lab03-Peraza32\PersonalFiles\Utilities\Utilities\obj\Debug\netstandard2.0\Utilities.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\Progra\C#\Labos\Lab3\lab03-Peraza32\PersonalFiles\Utilities\Utilities\obj\Debug\netstandard2.0\Utilities.dll
+C:\Users\Victor\Desktop\Progra\C#\Labos\Lab3\lab03-Peraza32\PersonalFiles\Utilities\Utilities\obj\Debug\netstandard2.0\Utilities.pdb

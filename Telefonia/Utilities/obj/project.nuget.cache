@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "um3ppbdSt4RaFtweoDUab/T6a+fhlgtZrnOT5V9T9VLPDs8F++YoaVfu/XxBKbDbkMv+5CwHDxovsw2zOpwwMw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Victor\\Desktop\\Progra\\C#\\Parcial_01_POO\\parcial01-error404_namenotfound\\Utilities\\Utilities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Victor\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Victor\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
